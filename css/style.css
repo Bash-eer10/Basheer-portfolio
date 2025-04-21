@@ -5063,8 +5063,8 @@ input[type="button"].btn-block {
     -webkit-box-direction: normal;
     -ms-flex-flow: row wrap;
     flex-flow: row wrap;
-    margin-right: -15px;
-    margin-left: -15px;
+    margin-right: -40px;
+    margin-left: -27px;
   }
   .card-deck .card {
     display: -webkit-box;
